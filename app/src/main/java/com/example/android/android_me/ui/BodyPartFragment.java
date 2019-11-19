@@ -10,6 +10,8 @@ import android.widget.ImageView;
 import com.example.android.android_me.R;
 import com.example.android.android_me.data.AndroidImageAssets;
 
+//  https://github.com/udacity/Android_Me/compare/TFragments.01-Exercise-CreateBodyPartFragment...TFragments.01-Solution-CreateBodyPartFragment
+
 // TODO (2) Create a new class called BodyPartFragment to display an image of an Android-Me body part
 // In this class, you'll need to implement an empty constructor and the onCreateView method
 public class BodyPartFragment extends Fragment {
