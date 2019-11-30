@@ -12,7 +12,7 @@ import com.example.android.android_me.R;
 
 import java.util.List;
 
-// https://github.com/udacity/Android_Me/compare/TFragments.02-Exercise-DisplayThreeFragments...TFragments.02-Solution-DisplayThreeFragments
+// https://github.com/udacity/Android_Me/compare/TFragments.02-Exercise-DisplayThreeFragments...TFragments.02-Solution-DisplayThreeFragments"
 public class BodyPartFragment extends Fragment {
 
     // Tag for logging
