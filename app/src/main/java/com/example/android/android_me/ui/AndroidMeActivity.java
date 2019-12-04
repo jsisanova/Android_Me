@@ -25,7 +25,6 @@ public class AndroidMeActivity extends AppCompatActivity {
 
         // Add the fragment to its container using a FragmentManager and a Transaction
         FragmentManager fragmentManager = getSupportFragmentManager();
-
         fragmentManager.beginTransaction()
                 // add fragment and embed it in host activity
                 // you can make multiple different or same calls during same fragment transaction
