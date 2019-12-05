@@ -7,7 +7,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.GridView;
-import android.widget.TextView;
 
 import com.example.android.android_me.R;
 import com.example.android.android_me.data.AndroidImageAssets;
