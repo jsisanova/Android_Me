@@ -22,6 +22,8 @@ import android.widget.Toast;
 
 import com.example.android.android_me.R;
 
+//   https://github.com/udacity/Android_Me/compare/TFragments.05-Exercise-InterfaceCommunication...TFragments.05-Solution-InterfaceCommunication#
+
 // This activity is responsible for displaying the master list of all images
 // TODO (4) Implement the MasterListFragment callback, OnImageClickListener
 public class MainActivity extends AppCompatActivity implements MasterListFragment.OnImageClickListener {
