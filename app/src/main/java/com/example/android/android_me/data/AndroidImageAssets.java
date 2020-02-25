@@ -27,6 +27,12 @@ public class AndroidImageAssets {
     // Lists for all AndroidMe images
     // Broken down into heads, bodies, legs, and all images
 
+    //1. Add elements one by one
+    //
+    // making an anonymous inner class with an instance initializer (also known as an "double brace initialization"):
+    // equivalent to:
+    // List<String> list = new ArrayList<String>();
+    // list.add("A");
     private static final List<Integer> heads = new ArrayList<Integer>() {{
         add(R.drawable.head1);
         add(R.drawable.head2);

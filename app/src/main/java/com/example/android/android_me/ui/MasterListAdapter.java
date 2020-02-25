@@ -43,7 +43,7 @@ public class MasterListAdapter extends BaseAdapter {
     }
 
     /**
-     * Returns the number of items the adapter will display
+     * Returns the number of items the adapter will display - these methods must be implemented
      */
     @Override
     public int getCount() {
